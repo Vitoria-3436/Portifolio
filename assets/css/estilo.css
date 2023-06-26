@@ -1,0 +1,28 @@
+   .container {
+       border-style: solid;
+       border: black;
+       display: flex;
+       flex-basis: 100%;
+   }
+
+   .img {
+       border-radius: 50%;
+   }
+
+   .borda {
+       border-width: 2px;
+       border-style: solid;
+   }
+
+   .coluna {
+       flex-basis: 100%;
+       background-color: rgb(167, 216, 216);
+   }
+
+   .body {
+       background-color: rgb(204, 179, 211);
+   }
+
+   .ul {
+       font-size: large;
+   }
